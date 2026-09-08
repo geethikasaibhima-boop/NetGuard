@@ -1,0 +1,1 @@
+09/07-18:21:23.398228 [**] [1:1000003:1] "NETGUARD - Possible SSH Brute-Force Connection Burst" [**] [Priority: 0] {TCP} 10.10.10.30:50005 -> 10.10.10.1:22

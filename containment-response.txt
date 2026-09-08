@@ -1,0 +1,17 @@
+NETGUARD INCIDENT RESPONSE - CONTAINMENT
+
+Incident: Possible SSH Brute-Force Connection Burst
+Source IP: 10.10.10.30
+Destination IP: 10.10.10.1
+Destination Port: 22
+Snort SID: 1000003
+
+Containment Action:
+The simulated source IP 10.10.10.30 is treated as an untrusted source
+and would be isolated from further SSH access in a real incident.
+
+Lab Action:
+No real network blocking was performed. Containment was documented
+as a controlled incident-response simulation.
+
+Status: Containment simulated successfully.

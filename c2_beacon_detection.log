@@ -1,0 +1,6 @@
+09/07-18:22:37.268313 [**] [1:1000004:1] "NETGUARD - Possible C2 Beacon Pattern" [**] [Priority: 0] {TCP} 10.10.10.40:51005 -> 10.10.10.1:8080
+09/07-18:22:37.266434 [**] [1:1000004:1] "NETGUARD - Possible C2 Beacon Pattern" [**] [Priority: 0] {TCP} 10.10.10.40:51000 -> 10.10.10.1:8080
+09/07-18:22:37.266968 [**] [1:1000004:1] "NETGUARD - Possible C2 Beacon Pattern" [**] [Priority: 0] {TCP} 10.10.10.40:51001 -> 10.10.10.1:8080
+09/07-18:22:37.267206 [**] [1:1000004:1] "NETGUARD - Possible C2 Beacon Pattern" [**] [Priority: 0] {TCP} 10.10.10.40:51002 -> 10.10.10.1:8080
+09/07-18:22:37.267537 [**] [1:1000004:1] "NETGUARD - Possible C2 Beacon Pattern" [**] [Priority: 0] {TCP} 10.10.10.40:51003 -> 10.10.10.1:8080
+09/07-18:22:37.267962 [**] [1:1000004:1] "NETGUARD - Possible C2 Beacon Pattern" [**] [Priority: 0] {TCP} 10.10.10.40:51004 -> 10.10.10.1:8080
